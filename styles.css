@@ -1,0 +1,33 @@
+.hometitle { /* styles for main title page*/
+    color: goldenrod ;
+    font-size: 86px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-weight: bolder;
+}
+ 
+h1 { /*Generic font styles for main headers*/
+    color:darkorchid;
+    text-align: center;
+    font-weight: bold;
+    font-size: 46;
+}
+
+h2 {
+    color: aqua;
+    
+}
+
+img { /*Generic image adjustments, sets width and centers image */
+    width: 550px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sidedishes{
+color: brown;
+font-style: italic;
+}
+
